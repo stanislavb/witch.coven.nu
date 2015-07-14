@@ -2,7 +2,7 @@
 layout: page
 title: Stadgar
 ---
-# Stadgar för Wicked Witches
+## Stadgar för Wicked Witches
 
 ### §1 Föreningens namn
 Föreningens namn är Wicked Witches

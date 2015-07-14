@@ -3,7 +3,7 @@ layout: page
 title: Arrangemang
 ---
 
-# Kommande arrangemang
+## Kommande arrangemang
 Översikt över våra kommande arrangemang
 
 <table>
