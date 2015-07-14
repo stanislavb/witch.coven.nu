@@ -1,0 +1,18 @@
+language: ruby
+rvm:
+- 2.1
+script: jekyll build
+branches:
+  only:
+  - master
+deploy:
+  provider: s3
+  access_key_id: AKIAJU5O74NHBC2PUANQ
+  secret_access_key:
+    secure: "qydkZS8Mm8NrXtoynHthyIi7PEQJ+P94td9/NNy5swKTfQvRFWNPIk3QmY/oBsXHPlqS8KTWdGbPeSLZIYltRKQWW1RpyckCPh3vjhh7xGXolIHaMKDank8JDFtVqsiPqPly+B2h/hYR6CsPO5FWxn0jhXVPsPuas4zTAETVBoeHsxV0rsIDArwx3J5ZGV4faZEP+5nMwguzbBbXvNIzifdNDdoaNHm7ZBPemxUHhgVljpT8V1f8NP1M6YveDIJnASh8ECUm1MPQAkfv7stg8oJ8PZastFDi1a+M7GHPYYv1x0phJpZuYbmdK8fPVDQs06peNSP9OmLRRGJWYODJcDYG3zN/SW9lyP4RnhMfyIPWwR9cQPiyDzSQrg//T0wZRrPpXNREu1o0Rr2bmpsCwF+VHF/P7hsPSn1f9MWE8oRCZoL83QPJz57GxYgXLnscmF28Hy0t4BsqBpMWOuYSeuomegAb8/Wd219zouP0FledPM9kOQKz1jEHO+hBEAuh8woV9rYB4FwQ8cyO1h1nYxMX/vTEuXW+7qXzM+xdYToKApWO292rkAD4X2DNliGys18KthqBp49JRNLlXUsE4pAEEctFYd1ADMs4/FA5bo0Mr5yidd09756MSFiYlZslIAkVyn1KNUKDe1cAYzVlWzm/3HmPa33KiHyRLrpL2ZM="
+  bucket: witch.coven.nu
+  local-dir: _site
+  endpoint: witch.coven.nu.s3-website-eu-central-1.amazonaws.com
+  region: eu-central-1
+  skip_cleanup: true
+  cache_control: no-cache
