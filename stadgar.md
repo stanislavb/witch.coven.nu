@@ -98,6 +98,3 @@ Att upplösning ska behandlas måste framgå av kallelsen.
 Föreningen kan inte upplösas så länge minst fem medlemmar vägrar godkänna upplösningen.
 
 Vid upplösning ska föreningens skulder betalas. Därefter ska föreningens tillgångar gå till verksamhet i enlighet med föreningens syfte. Hur detta ska ske beslutas på det sista årsmötet. En ansvarig ska utses för att avsluta föreningens konton, sköta överföring av tillgångar samt avregistrering från förbundet.
-
-## Årsmötesprotokol
-[Länk till PDF](https://drive.google.com/file/d/0B-kX7UrQSKN8cUFodGpnVGM4clU/view?usp=sharing)
