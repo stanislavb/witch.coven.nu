@@ -29,3 +29,8 @@ title: Arrangemang
 </tbody>
 </table>
 
+## Sponsorer
+Förutom våra kära medspelare har vi fått stöd från Larpfund!
+
+![Larpfund](/public/images/larpfundlogo.png)
+[http://larpfund.org](http://larpfund.org)

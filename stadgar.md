@@ -4,6 +4,8 @@ title: Stadgar
 ---
 ## Stadgar för Wicked Witches
 
+Member chapter is [available in English](/public/member_charter.pdf)
+
 ### §1 Föreningens namn
 Föreningens namn är Wicked Witches
 
